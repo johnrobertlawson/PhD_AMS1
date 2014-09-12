@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  12 SEP 2014 16:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  12 SEP 2014 16:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -416,40 +416,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2]
 
-Package natbib Warning: Citation `American_Meteorological_Society2014-mi' on pa
-ge 3 undefined on input line 122.
-
-
-Package natbib Warning: Citation `Fritsch1986-xs' on page 3 undefined on input 
-line 122.
-
-
-Package natbib Warning: Citation `Gallus2008-bm' on page 3 undefined on input l
-ine 122.
-
-
 LaTeX Warning: Reference `fig:verif_4panel' on page 3 undefined on input line 1
 22.
 
 
-Package natbib Warning: Citation `Johns1987-qj' on page 3 undefined on input li
-ne 122.
-
-
-Package natbib Warning: Citation `Markowski2010-xi' on page 3 undefined on inpu
-t line 122.
-
-
 Package natbib Warning: Citation `Keene2013-df;Snively2014-pr' on page 3 undefi
 ned on input line 125.
-
-
-Package natbib Warning: Citation `Adams-Selin2013-ca' on page 3 undefined on in
-put line 125.
-
-
-Package natbib Warning: Citation `Adams-Selin2013-om' on page 3 undefined on in
-put line 125.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -462,78 +434,21 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-
-Package natbib Warning: Citation `Adams-Selin2013-om' on page 4 undefined on in
-put line 127.
-
-
-Package natbib Warning: Citation `Berner2011-pd' on page 4 undefined on input l
-ine 127.
-
-
-Package natbib Warning: Citation `Lorenz1969-xw' on page 4 undefined on input l
-ine 129.
-
-
-Package natbib Warning: Citation `Anthes1985-ga' on page 4 undefined on input l
-ine 129.
-
-
-Package natbib Warning: Citation `Lilly1990-vs' on page 4 undefined on input li
-ne 129.
-
-
-Package natbib Warning: Citation `Oortwijn1998-rk' on page 4 undefined on input
- line 129.
-
-
-Package natbib Warning: Citation `Palmer2014' on page 4 undefined on input line
- 129.
-
-
-Package natbib Warning: Citation `Lorenz1963-zy' on page 4 undefined on input l
-ine 129.
-
-
-Package natbib Warning: Citation `Zhang2003-sa' on page 4 undefined on input li
-ne 129.
-
-
-Package natbib Warning: Citation `Rodwell2013-jo' on page 4 undefined on input 
-line 129.
-
-
-Package natbib Warning: Citation `Durran-2014-qf' on page 4 undefined on input 
-line 129.
-
-
-Package natbib Warning: Citation `Kuhnlein2014-ys' on page 4 undefined on input
- line 129.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
 
-Package natbib Warning: Citation `Berner2011-pd' on page 5 undefined on input l
-ine 134.
+Package natbib Warning: Citation `Palmer2014' on page 5 undefined on input line
+ 129.
 
 
-Package natbib Warning: Citation `Palmer2001-hh' on page 5 undefined on input l
-ine 134.
-
-
-Package natbib Warning: Citation `Hanley2013-ch' on page 5 undefined on input l
-ine 134.
+Package natbib Warning: Citation `Durran-2014-qf' on page 5 undefined on input 
+line 129.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-
-Package natbib Warning: Citation `Johns1987-qj' on page 6 undefined on input li
-ne 139.
-
 
 LaTeX Warning: Reference `fig:verif_4panel' on page 6 undefined on input line 1
 39.
@@ -546,72 +461,22 @@ LaTeX Warning: Reference `fig:verif_4panel' on page 6 undefined on input line 1
 LaTeX Warning: Reference `fig:verif_4panel' on page 6 undefined on input line 1
 43.
 
-
-Package natbib Warning: Citation `Skamarock2008-yw' on page 6 undefined on inpu
-t line 145.
-
-
-LaTeX Warning: Reference `tab:WRFconfig' on page 6 undefined on input line 145.
-
-
-
-LaTeX Warning: Reference `fig:domains' on page 6 undefined on input line 145.
-
 [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package natbib Warning: Citation `Lawson2013-az' on page 7 undefined on input l
-ine 147.
-
-
-Package natbib Warning: Citation `Clark1995-yy' on page 7 undefined on input li
-ne 147.
-
-
-LaTeX Warning: Reference `tab:WRFconfig' on page 7 undefined on input line 149.
-
-
-
-LaTeX Warning: Reference `tab:MPs' on page 7 undefined on input line 149.
-
-
-Package natbib Warning: Citation `Adams-Selin2013-om' on page 7 undefined on in
-put line 149.
-
-
-Package natbib Warning: Citation `Berner2011-pd' on page 7 undefined on input l
-ine 149.
-
+ [7]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 149.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 149.
 
-LaTeX Warning: Reference `fig:method' on page 7 undefined on input line 149.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
-
-Package natbib Warning: Citation `Tan2004-ss' on page 8 undefined on input line
- 151.
+LaTeX Warning: Reference `fig:method' on page 8 undefined on input line 149.
 
 [8]
 
-Package natbib Warning: Citation `Tan2004-ss' on page 9 undefined on input line
- 157.
-
-
 LaTeX Warning: Reference `fig:verif_4panel' on page 9 undefined on input line 1
 61.
-
-
-Package natbib Warning: Citation `Snively2014-pr' on page 9 undefined on input 
-line 161.
-
-
-LaTeX Warning: Reference `sec:futurework' on page 9 undefined on input line 161
-.
 
 
 LaTeX Warning: Reference `fig:verif_2009' on page 9 undefined on input line 161
@@ -627,15 +492,8 @@ LaTeX Warning: Reference `fig:verif_4panel' on page 10 undefined on input line
 165.
 
 
-LaTeX Warning: Reference `tab:summary' on page 10 undefined on input line 165.
-
-
 LaTeX Warning: Reference `fig:DTE_ICBC' on page 10 undefined on input line 170.
 
-
-
-Package natbib Warning: Citation `Kuhnlein2014-ys' on page 10 undefined on inpu
-t line 170.
 
 
 LaTeX Warning: Reference `fig:DTE_ICBC' on page 10 undefined on input line 170.
@@ -651,49 +509,181 @@ LaTeX Warning: Reference `fig:DTE_ICBC' on page 11 undefined on input line 172.
 
 
 
-LaTeX Warning: Reference `sec:futurework' on page 11 undefined on input line 17
-2.
-
-
 LaTeX Warning: Reference `fig:verif_4panel' on page 11 undefined on input line 
 174.
-
-
-LaTeX Warning: Reference `sec:futurework' on page 11 undefined on input line 17
-6.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
 
-LaTeX Warning: Reference `sec:prog' on page 12 undefined on input line 178.
+LaTeX Warning: Reference `fig:DTE_2D' on page 12 undefined on input line 185.
 
+
+LaTeX Warning: Reference `fig:verif' on page 12 undefined on input line 185.
+
+[12]
+
+LaTeX Warning: Reference `fig:DTE_1' on page 13 undefined on input line 187.
+
+
+LaTeX Warning: Reference `fig:DTE_1v' on page 13 undefined on input line 187.
+
+
+LaTeX Warning: Reference `fig:DTE_2013' on page 13 undefined on input line 187.
+
+
+
+LaTeX Warning: Reference `fig:DTE_2' on page 13 undefined on input line 187.
+
+
+LaTeX Warning: Reference `fig:DTE_2v' on page 13 undefined on input line 187.
+
+
+LaTeX Warning: Reference `fig:DTE_3' on page 13 undefined on input line 187.
+
+
+LaTeX Warning: Reference `fig:DTE_3v' on page 13 undefined on input line 187.
+
+
+LaTeX Warning: Reference `fig:DTE_2013' on page 13 undefined on input line 187.
+
+
+
+LaTeX Warning: Reference `fig:DTE_4' on page 13 undefined on input line 187.
+
+
+LaTeX Warning: Reference `fig:DTE_4v' on page 13 undefined on input line 187.
+
+
+LaTeX Warning: Reference `fig:CaseD_ICBC' on page 13 undefined on input line 18
+7.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+
+LaTeX Warning: Reference `fig:DTE_MXMP' on page 14 undefined on input line 189.
+
+
+
+LaTeX Warning: Reference `fig:CaseD_MXMP' on page 14 undefined on input line 18
+9.
+
+
+LaTeX Warning: Reference `fig:CaseD_STCH' on page 14 undefined on input line 18
+9.
+
+
+LaTeX Warning: Reference `fig:DTE_STCH_T' on page 14 undefined on input line 18
+9.
+
+
+LaTeX Warning: Reference `fig:DTE_STCH_M' on page 14 undefined on input line 18
+9.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 197.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
 )
-Runaway argument?
-{Comparison of two serial bow echoes~\ref {sec:serial} \par \section \ETC.
-! File ended while scanning use of \@xdblarg.
-<inserted text> 
-                \par 
-<*> ...son/gitprojects/PhD_AMS1/bowechospread.tex}
-                                                  
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 197.
 
-! Emergency stop.
-<*> ...son/gitprojects/PhD_AMS1/bowechospread.tex}
-                                                  
-*** (job aborted, no legal \end found)
+Underfull \vbox (badness 1231) has occurred while \output is active []
 
- 
+ [15]
+(/Users/johnlawson/gitprojects/PhD_AMS1/bowechospread.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+[17]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ê in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ê in font ptmr7t!
+ [18])
+\openout3 = `bowechospread.ttt'.
+
+ (bowechospread.ttt)
+\openout4 = `bowechospread.fff'.
+
+ (bowechospread.fff)
+
+Package natbib Warning: There were undefined citations.
+
+AED endfloat: Processing end Figures and Tables [19]
+(/Users/johnlawson/gitprojects/PhD_AMS1/bowechospread.lot
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+)
+\tf@lot=\write5
+\openout5 = `bowechospread.lot'.
+
+ [20
+
+
+]
+(/Users/johnlawson/gitprojects/PhD_AMS1/bowechospread.ttt [21] [22]
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
+ [23])
+(/Users/johnlawson/gitprojects/PhD_AMS1/bowechospread.lof)
+\tf@lof=\write6
+\openout6 = `bowechospread.lof'.
+
+ [24
+
+
+
+
+
+]
+(/Users/johnlawson/gitprojects/PhD_AMS1/bowechospread.fff
+<images/domains.png, id=87, 433.62pt x 289.08pt>
+File: images/domains.png Graphic file (type png)
+ <use images/domains.png>
+Package pdftex.def Info: images/domains.png used on input line 3.
+(pdftex.def)             Requested size: 252.0pt x 168.00174pt.
+
+[25
+
+ </Users/johnlawson/gitprojects/PhD_AMS1/images/domains.png>])
+(/Users/johnlawson/gitprojects/PhD_AMS1/bowechospread.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4252 strings out of 493117
- 56074 string characters out of 6135433
- 131861 words of memory out of 5000000
- 7598 multiletter control sequences out of 15000+600000
- 52100 words of font info for 120 fonts, out of 8000000 for 9000
+ 4383 strings out of 493117
+ 58917 string characters out of 6135433
+ 131182 words of memory out of 5000000
+ 7702 multiletter control sequences out of 15000+600000
+ 57291 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,10n,37p,2731b,306s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 39i,10n,37p,2731b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
+/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times
+/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.p
+fb>
+Output written on bowechospread.pdf (25 pages, 397637 bytes).
+PDF statistics:
+ 125 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

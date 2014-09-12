@@ -1,4 +1,4 @@
-\begin{thebibliography}{23}
+\begin{thebibliography}{24}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \renewcommand{\UrlFont}{\rmfamily}
@@ -74,6 +74,10 @@ Lawson, J., 2013: Analysis and predictability of the 1 december 2011 wasatch
 \bibitem[{Lilly(1990)}]{Lilly1990-vs}
 Lilly, D.~K., 1990: Numerical prediction of thunderstorms---has its time come?
   \textit{Quart. J. Roy. Meteor. Soc.}, \textbf{116}, 779--798.
+
+\bibitem[{Lorenz(1963)}]{Lorenz1963-zy}
+Lorenz, E., 1963: Deterministic nonperiodic flow. \textit{Journal of
+  Atmospheric Sciences}, \textbf{20}, 130--141.
 
 \bibitem[{Lorenz(1969)}]{Lorenz1969-xw}
 Lorenz, E., 1969: The predictability of a flow which possesses many scales of

@@ -1,9 +1,8 @@
-\begin{figure*}
-[tbph]
+\begin{figure}[tbph]
 \centering
 \includegraphics[width=21pc]{images/domains}
 \caption{Domains for each of the four cases. Label denotes the year of each case (c.f. Fig~?.}
 \label{fig:domains}
-\end{figure*}
+\end{figure}
 \efloatseparator
  

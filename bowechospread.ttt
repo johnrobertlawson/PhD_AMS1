@@ -1,5 +1,4 @@
-\begin{table*}
-[tb]
+\begin{table}[tb]
 \caption{Control parameterization schemes used in numerical modelling configuration.}
 \label{tab:WRFconfig}
 \begin{center}
@@ -14,11 +13,10 @@
 {\textbf{Planetary Boundary Layer}} & MYNN Level 2.5  \\
 \end{tabular}
 \end{center}
-\end{table*}
+\end{table}
 \efloatseparator
  
-\begin{table*}
-[tb]
+\begin{table*}[tb]
 \caption{Subjective summary of ensemble-member performance in each of the four ICBC experiments.}
 \label{tab:summary}
 \begin{center}
@@ -34,8 +32,7 @@
 \end{table*}
 \efloatseparator
  
-\begin{table*}
-[tb]
+\begin{table}[tb]
 \caption{Control parameterisation schemes used in numerical modelling configuration.}
 \label{tab:MPs}
 \begin{center}
@@ -54,6 +51,6 @@ Morrison * \\
 \multicolumn{1}{l}{*\footnotesize{\qquad Changed to be either hail- or graupel-like}} \\
 \end{tabular}
 \end{center}
-\end{table*}
+\end{table}
 \efloatseparator
  
