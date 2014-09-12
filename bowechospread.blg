@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
+The top-level auxiliary file: /home/jrlawson/gitprojects/PhD_AMS1/bowechospread.aux
+The style file: ametsoc2014.bst
+Database file #1: paperpile.bib
+Warning--I didn't find a database entry for "Keene2013-df;Snively2014-pr"
+Warning--I didn't find a database entry for "Durran_undated-qf"
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--missing department in Lawson2013-az
+Warning--missing publisher in American_Meteorological_Society2014-mi
+You've used 23 entries,
+            3493 wiz_defined-function locations,
+            851 strings with 9528 characters,
+and the built_in function-call counts, 23558 in all, are:
+= -- 2808
+> -- 700
+< -- 11
++ -- 432
+- -- 177
+* -- 1181
+:= -- 2410
+add.period$ -- 46
+call.type$ -- 23
+change.case$ -- 172
+chr.to.int$ -- 22
+cite$ -- 25
+duplicate$ -- 2450
+empty$ -- 1293
+format.name$ -- 224
+if$ -- 4779
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 236
+newline$ -- 80
+num.names$ -- 92
+pop$ -- 999
+preamble$ -- 1
+purify$ -- 150
+quote$ -- 0
+skip$ -- 1509
+stack$ -- 0
+substring$ -- 1157
+swap$ -- 1993
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 201
+warning$ -- 2
+while$ -- 120
+width$ -- 0
+write$ -- 262
+(There were 4 warnings)

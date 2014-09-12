@@ -1,0 +1,131 @@
+\begin{thebibliography}{23}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\renewcommand{\UrlFont}{\rmfamily}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Adams-Selin et~al.(2013{\natexlab{a}})Adams-Selin, van~den Heever,,
+  and Johnson}]{Adams-Selin2013-ca}
+Adams-Selin, R.~D., S.~C. van~den Heever, and R.~H. Johnson,
+  2013{\natexlab{a}}: Impact of graupel parameterization schemes on idealized
+  bow echo simulations. \textit{Mon. Weather Rev.}, \textbf{141~(4)},
+  1241--1262.
+
+\bibitem[{Adams-Selin et~al.(2013{\natexlab{b}})Adams-Selin, van~den Heever,,
+  and Johnson}]{Adams-Selin2013-om}
+Adams-Selin, R.~D., S.~C. van~den Heever, and R.~H. Johnson,
+  2013{\natexlab{b}}: Sensitivity of {Bow-Echo} simulation to microphysical
+  parameterizations. \textit{Weather Forecast.}, \textbf{28~(5)}, 1188--1209.
+
+\bibitem[{Anthes et~al.(1985)Anthes, Kuo, Baumhefner, Errico,, and
+  Bettge}]{Anthes1985-ga}
+Anthes, R.~A., Y.-H. Kuo, D.~P. Baumhefner, R.~M. Errico, and T.~W. Bettge,
+  1985: Predictability of mesoscale atmospheric motions. \textit{Adv.
+  Geophys.}, \textbf{28}, 159.
+
+\bibitem[{Berner et~al.(2011)Berner, Ha, Hacker, Fournier,, and
+  Snyder}]{Berner2011-pd}
+Berner, J., S.-Y. Ha, J.~P. Hacker, a.~Fournier, and C.~Snyder, 2011: Model
+  uncertainty in a mesoscale ensemble prediction system: Stochastic versus
+  multiphysics representations. \textit{Mon. Weather Rev.}, \textbf{139~(6)},
+  1972--1995.
+
+\bibitem[{Clark and Arritt(1995)Clark, and Arritt}]{Clark1995-yy}
+Clark, C.~A., and P.~W. Arritt, 1995: Numerical simulations of the effect of
+  soil moisture and vegetation cover on the development of deep convection.
+  \textit{J. Appl. Meteorol.}, \textbf{34~(9)}, 2029--2045.
+
+\bibitem[{Fritsch et~al.(1986)Fritsch, Kane,, and Chelius}]{Fritsch1986-xs}
+Fritsch, J.~M., R.~J. Kane, and C.~R. Chelius, 1986: The contribution of
+  mesoscale convective weather systems to the {Warm-Season} precipitation in
+  the united states. \textit{J. Climate Appl. Meteor.}, \textbf{25~(10)},
+  1333--1345.
+
+\bibitem[{Gallus et~al.(2008)Gallus, Snook,, and Johnson}]{Gallus2008-bm}
+Gallus, W., N.~a. Snook, and E.~V. Johnson, 2008: Spring and summer severe
+  weather reports over the midwest as a function of convective mode: A
+  preliminary study. \textit{Weather Forecast.}, \textbf{23~(1)}, 101--113.
+
+\bibitem[{Hanley et~al.(2013)Hanley, Kirshbaum, Roberts,, and
+  Leoncini}]{Hanley2013-ch}
+Hanley, K.~E., D.~J. Kirshbaum, N.~M. Roberts, and G.~Leoncini, 2013:
+  Sensitivities of a squall line over central europe in a {Convective-Scale}
+  ensemble. \textit{Mon. Weather Rev.}, \textbf{141~(1)}, 112--133.
+
+\bibitem[{Johns and Hirt(1987)Johns, and Hirt}]{Johns1987-qj}
+Johns, R.~H., and W.~D. Hirt, 1987: Derechos: Widespread convectively induced
+  windstorms. \textit{Weather Forecast.}, \textbf{2~(1)}, 32--49.
+
+\bibitem[{K{\"{u}}hnlein et~al.(2014)K{\"{u}}hnlein, Keil, Craig,, and
+  Gebhardt}]{Kuhnlein2014-ys}
+K{\"{u}}hnlein, C., C.~Keil, G.~C. Craig, and C.~Gebhardt, 2014: The impact of
+  downscaled initial condition perturbations on convective-scale ensemble
+  forecasts of precipitation. \textit{Quart. J. Roy. Meteor. Soc.}
+
+\bibitem[{Lawson(2013)}]{Lawson2013-az}
+Lawson, J., 2013: Analysis and predictability of the 1 december 2011 wasatch
+  downslope windstorm. M.S. thesis, University of Utah, 84 pp.
+
+\bibitem[{Lilly(1990)}]{Lilly1990-vs}
+Lilly, D.~K., 1990: Numerical prediction of thunderstorms---has its time come?
+  \textit{Quart. J. Roy. Meteor. Soc.}, \textbf{116}, 779--798.
+
+\bibitem[{Lorenz(1969)}]{Lorenz1969-xw}
+Lorenz, E., 1969: The predictability of a flow which possesses many scales of
+  motion. \textit{Tellus}, \textbf{21~(3)}, 289--307.
+
+\bibitem[{Markowski and Richardson(2010)Markowski, and
+  Richardson}]{Markowski2010-xi}
+Markowski, P., and Y.~Richardson, 2010: \textit{Mesoscale Meteorology in
+  Mid-latitudes}. Wiley-Blackwell, 407 pp.
+
+\bibitem[{Oortwijn(1998)}]{Oortwijn1998-rk}
+Oortwijn, J., 1998: Predictability of the onset of blocking and strong zonal
+  flow regimes. \textit{J. Atmos. Sci.}, \textbf{55}, 973--994.
+
+\bibitem[{Palmer(2001)}]{Palmer2001-hh}
+Palmer, T., 2001: A nonlinear dynamical perspective on model error: A proposal
+  for non‐local stochastic‐dynamic parametrization in weather and climate
+  prediction models. \textit{Quart. J. Roy. Meteor. Soc.}, \textbf{127},
+  279--304.
+
+\bibitem[{Rodwell et~al.(2013)}]{Rodwell2013-jo}
+Rodwell, M.~J., and Coauthors, 2013: Characteristics of occasional poor
+  {Medium-Range} weather forecasts for europe. \textit{Bull. Am. Meteorol.
+  Soc.}, \textbf{94~(9)}, 1393--1405.
+
+\bibitem[{Skamarock et~al.(2008)Skamarock, Klemp, Dudhia, Gill,, and
+  {others}}]{Skamarock2008-yw}
+Skamarock, W.~C., J.~B. Klemp, J.~Dudhia, D.~O. Gill, and {others}, 2008: A
+  description of the advanced research {WRF} version 3, 2008. \textit{NCAR
+  Technical Note. NCAR/TN-}, 113.
+
+\bibitem[{Snively and Gallus(2014)Snively, and Gallus}]{Snively2014-pr}
+Snively, D.~V., and W.~A. Gallus, 2014: Prediction of convective morphology in
+  {Near-Cloud-Permitting} {WRF} model simulations. \textit{Weather Forecast.},
+  \textbf{29~(1)}, 130--149.
+
+\bibitem[{Society(2014)}]{American_Meteorological_Society2014-mi}
+Society, A.~M., 2014: Glossary of meteorology: Mesoscale convective system.
+  Accessed: 2014-4-23,
+  \url{http://glossary.ametsoc.org/wiki/Mesoscale_convective_system}.
+
+\bibitem[{Tan et~al.(2004)Tan, Zhang, Rotunno,, and Snyder}]{Tan2004-ss}
+Tan, Z.-M., F.~Zhang, R.~Rotunno, and C.~Snyder, 2004: Mesoscale predictability
+  of moist baroclinic waves: Experiments with parameterized convection.
+  \textit{J. Atmos. Sci.}, \textbf{61~(14)}, 1794--1804.
+
+\bibitem[{Williams(1997)}]{Williams1997-yg}
+Williams, G., 1997: \textit{Chaos Theory Tamed}. Joseph Henry Press.
+
+\bibitem[{Zhang et~al.(2003)Zhang, Snyder,, and Rotunno}]{Zhang2003-sa}
+Zhang, F., C.~Snyder, and R.~Rotunno, 2003: Effects of moist convection on
+  mesoscale predictability. \textit{J. Atmos. Sci.}, \textbf{60~(9)},
+  1173--1185.
+
+\end{thebibliography}

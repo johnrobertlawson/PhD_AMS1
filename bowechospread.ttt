@@ -1,0 +1,59 @@
+\begin{table*}
+[tb]
+\caption{Control parameterization schemes used in numerical modelling configuration.}
+\label{tab:WRFconfig}
+\begin{center}
+\begin{tabular}{cc}
+\hline \hline
+{\textbf{Parameterization}} & {\textbf{Scheme}} \\ \hline
+{\textbf{Microphysics}} & Thompson \\
+{\textbf{Longwave Radiation}} & RRTM  \\
+{\textbf{Shortwave Radiation}} & Dudhia \\
+{\textbf{Surface Layer}} & MYNN \\
+{\textbf{Land Surface}} & Noah \\
+{\textbf{Planetary Boundary Layer}} & MYNN Level 2.5  \\
+\end{tabular}
+\end{center}
+\end{table*}
+\efloatseparator
+ 
+\begin{table*}
+[tb]
+\caption{Subjective summary of ensemble-member performance in each of the four ICBC experiments.}
+\label{tab:summary}
+\begin{center}
+\begin{tabular}{c|cc}
+\hline \hline
+{\textbf{Date}} & {\textbf{Convection}} & {\textbf{Bowing}} \\ \hline
+{\textbf{Case A: 26--27 May 2006}} & None & N/A \\
+{\textbf{Case B:10--11 September 2009}} & All & Some  \\
+{\textbf{Case C: 19--20 April 2011}} & All & Too weak \\
+{\textbf{Case D: 15--16 August 2013}} & All & Most\\
+\end{tabular}
+\end{center}
+\end{table*}
+\efloatseparator
+ 
+\begin{table*}
+[tb]
+\caption{Control parameterisation schemes used in numerical modelling configuration.}
+\label{tab:MPs}
+\begin{center}
+\begin{tabular}{c}
+Thompson \textdagger \\
+WSM6 * \\
+Kessler \\
+Ferrier \\
+WSM5 \\
+WDM5 \\
+Lin \\
+WDM6 * \\
+Morrison * \\
+\hline \hline
+\multicolumn{1}{l}{\textdagger \footnotesize{\qquad Control parameterisation}} \\
+\multicolumn{1}{l}{*\footnotesize{\qquad Changed to be either hail- or graupel-like}} \\
+\end{tabular}
+\end{center}
+\end{table*}
+\efloatseparator
+ 
